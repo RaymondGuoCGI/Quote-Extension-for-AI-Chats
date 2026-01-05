@@ -66,7 +66,7 @@
 
 使用 Quote Extension 后，你的引用和问题会以清晰、美观的方式呈现：
 
-![效果演示](screenshots/demo-effect.png?v=2)
+![效果演示](screenshots/demo-effect-new.png)
 
 **效果说明**：
 - **引用文本**：显示为灰色小字，带有左侧绿色边框，清晰标识引用内容
@@ -176,7 +176,7 @@ You can quickly enable or disable the extension for the current webpage by click
 
 With Quote Extension, your quotes and questions are presented in a clear and beautiful way:
 
-![Demo Effect](screenshots/demo-effect.png?v=2)
+![Demo Effect](screenshots/demo-effect-new.png)
 
 **Effect Description**:
 - **Quoted Text**: Displayed in small gray text with a green left border, clearly marking the quoted content
