@@ -1,0 +1,17 @@
+# Chrome Web Store publishing files
+webstore/
+
+# Temporary files
+*.zip
+temp_package/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
