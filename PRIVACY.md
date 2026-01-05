@@ -1,0 +1,85 @@
+# Privacy Policy for Quote Extension
+
+**Last Updated: January 5, 2026**
+
+## Overview
+
+Quote Extension ("the Extension") is committed to protecting your privacy. This privacy policy explains how the Extension handles user data.
+
+## Data Collection
+
+**The Extension does NOT collect, store, or transmit any personal data to external servers.**
+
+### What Data is Stored Locally
+
+The Extension only stores the following data locally on your device:
+
+- **Extension Toggle State**: Whether the extension is enabled or disabled for the current webpage
+  - This data is stored using Chrome's `chrome.storage.local` API
+  - This data never leaves your device
+
+### What Data is NOT Collected
+
+The Extension does NOT:
+
+- Collect any personal information
+- Track your browsing history
+- Store the text you select or quote
+- Send any data to external servers
+- Use cookies or tracking technologies
+- Share data with third parties
+
+## Permissions Explanation
+
+The Extension requires the following permissions to function:
+
+### activeTab
+- **Purpose**: To read the text you select on the current webpage
+- **Usage**: Only activated when you click the "Quote" button
+- **Data Handling**: Selected text is processed locally and never stored or transmitted
+
+### storage
+- **Purpose**: To save your preference for enabling/disabling the extension
+- **Usage**: Stores a simple on/off state locally
+- **Data Handling**: Data remains on your device only
+
+### clipboardWrite
+- **Purpose**: To copy formatted quote text to your clipboard
+- **Usage**: Only when you use the quote feature on non-AI chat pages
+- **Data Handling**: Text is copied to your system clipboard and not stored by the extension
+
+### host_permissions: <all_urls>
+- **Purpose**: To allow the extension to work on all websites
+- **Usage**: Enables the quote functionality on any webpage you visit
+- **Data Handling**: No data is collected or transmitted
+
+## Third-Party Services
+
+The Extension does NOT use any third-party services, analytics, or advertising networks.
+
+## Data Security
+
+Since the Extension does not collect or transmit any data, there are no data security concerns related to external storage or transmission.
+
+## Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be posted in the Extension's GitHub repository and updated in the Chrome Web Store listing.
+
+## Open Source
+
+The Extension is open source. You can review the complete source code at:
+https://github.com/RaymondGuoCGI/Quote-Extension-for-AI-Chats
+
+## Contact
+
+If you have any questions about this privacy policy, please:
+- Open an issue on GitHub: https://github.com/RaymondGuoCGI/Quote-Extension-for-AI-Chats/issues
+- Contact the developer through GitHub
+
+## Your Rights
+
+Since the Extension does not collect any personal data, there is no personal data to access, modify, or delete. You can uninstall the Extension at any time through Chrome's extension management page.
+
+---
+
+**Summary**: Quote Extension respects your privacy. It does not collect, store, or transmit any personal data. All functionality is performed locally on your device.
