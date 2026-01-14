@@ -5,7 +5,7 @@
   "version": "1.0.2",
   "description": "Elegantly quote text in Google Gemini chats. Select text, one-click quote, and auto formatting.",
   "author": "Raymond Guo",
-  "homepage_url": "https://github.com/RaymondGuoCGI/Quote-Extension-for-AI-Chats",
+  "homepage_url": "https://github.com/RaymondGuoCGI/Quote-Extension-for-Gemini",
   "permissions": [
     "storage",
     "clipboardWrite"

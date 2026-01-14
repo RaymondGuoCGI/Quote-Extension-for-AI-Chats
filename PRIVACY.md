@@ -63,12 +63,12 @@ We may update this privacy policy from time to time. Any changes will be posted 
 ## Open Source
 
 The Extension is open source. You can review the complete source code at:
-https://github.com/RaymondGuoCGI/Quote-Extension-for-AI-Chats
+https://github.com/RaymondGuoCGI/Quote-Extension-for-Gemini
 
 ## Contact
 
 If you have any questions about this privacy policy, please:
-- Open an issue on GitHub: https://github.com/RaymondGuoCGI/Quote-Extension-for-AI-Chats/issues
+- Open an issue on GitHub: https://github.com/RaymondGuoCGI/Quote-Extension-for-Gemini/issues
 - Contact the developer through GitHub
 
 ## Your Rights
